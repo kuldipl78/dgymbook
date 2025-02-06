@@ -28,7 +28,7 @@ src/ │── components/ │ ├── GameBoard/GameBoard.js │ ├── Ke
 ##  Installation & Running the Project
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/your-username/wordle-clone.git
+   git clone https://github.com/kuldipl78/wordle-clone.git
 2. Navigate to the Project Folder:
    cd wordle-clone
 3. Install Dependencies:
